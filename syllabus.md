@@ -17,6 +17,7 @@ mathematical arguments which are precise and concise. Students will also learn t
 - **Course Meetings:** Tuesdays and Thursdays, 12:30-1:45 at the Honors Cottage
 - **Texts:** _Intuitive Topology_ by Prasolov, and _The Shape of Space_ by Weeks.
 - **Office Hours:** Weekdays, 2-3pm, Wright Hall 327
+- **web page url:** theronhitchman.github.io/low-dim-top
 
 ### Learning Objectives
 
