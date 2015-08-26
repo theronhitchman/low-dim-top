@@ -1,0 +1,8 @@
+# SageMathCloud stuff
+*.sage-history
+*.sage-chat
+
+# LaTeX stuff
+*.aux
+*.out
+*.log
