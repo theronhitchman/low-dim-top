@@ -30,12 +30,19 @@
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="{{ site.baseurl }}/">LDT</a>             <span role="separator" class="divider">
-              <strong>|</strong>
-            </span>
-          <a href="{{site.baseurl}}/feed.xml">RSS Feed</a>
-          <a href="{{ site.baseurl}}/syllabus/">syllabus</a>
-          <a href="{{ site.baseurl }}/info/">info</a>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">LDT</a>
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                <a href="{{site.baseurl}}/feed.xml"> RSS Feed </a>
+              </li>
+              <li role="separator" class="divider"></li>
+              <li>
+                <a href="{{ site.baseurl }}/syllabus/">syllabus</a>
+              </li>
+              <li>
+                <a href="{{ site.baseurl }}/info/">info</a>
+              </li>
+            </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
