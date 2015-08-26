@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Honors Seminar: Low-dimensional Topology
-
+title: Honors Seminar&colon; Low-dimensional Topology
 ---
 
 #### University 2196, Fall 2015
