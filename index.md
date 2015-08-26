@@ -14,7 +14,7 @@ title:  UNI UNIV 2196 <br class="visible-xs" /><i>Low Dimensional Topology</i>
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-md-4">
+  <div class="col-xs-12">
     {% for post in site.posts %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
@@ -23,9 +23,9 @@ title:  UNI UNIV 2196 <br class="visible-xs" /><i>Low Dimensional Topology</i>
 			{{ post.content | truncatewords: 25}}
 		</div>
 	</div>
-{% endfor %}
-    </div>
+    {% endfor %}
   </div>
+</div>
 
 <div class="row visible-xs visible-sm">
  <p><br /></p>
