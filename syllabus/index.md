@@ -58,11 +58,11 @@ awesomeness.
 
 Grades will be not lower than those determined by following the table below.
 
-* A |  any combination of two E's and two M's, or better
-* B |  any one E, and no DNM's
-* C |  no DNM's
-* D |  at most one DNM
-* F |  fail to meet the standards for a D
+* A --  any combination of two E's and two M's, or better
+* B --  any one E, and no DNM's
+* C --  no DNM's
+* D --  at most one DNM
+* F --  fail to meet the standards for a D
 
 #### My Best Guess at a Project Timeline
 
@@ -73,6 +73,6 @@ Grades will be not lower than those determined by following the table below.
     Exam Week: final papers/creative works due
 
 
-### Student Academic Accomodations
+### Student Academic Accommodations
 
 Please address any special needs or special accommodations with me at the beginning of the semester or as soon as you become aware of your needs. Those seeking accommodations based on disabilities should obtain a Student Academic Accommodation Request (SAAR) form from Student Disability Services (SDS) (phone 319-273-2677, for deaf or hard of hearing, use Relay 711). SDS is located on the top floor of the Student Health Center, Room 103.
