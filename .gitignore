@@ -6,3 +6,6 @@
 *.aux
 *.out
 *.log
+
+# OSX stuff
+.DS_Store
