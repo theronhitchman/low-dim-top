@@ -4,7 +4,8 @@ title: Tricolorability &amp; the shape of knot theory
 
 ---
 
-I had a lot of fun in class today, and I hope you enjoyed it too. What did we
+I had a lot of fun in class today, and I hope you enjoyed it too. I usually have
+fun teaching, but your willingness to play along is great. So, What did we
 accomplish?
 
 1. We continued our discussion of Dowker notation for knots. In particular, we
