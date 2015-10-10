@@ -3,7 +3,10 @@ layout: post
 title: Non-orientable surfaces &amp; Invariance of Euler characteristic
 ---
 
-There were *two* big advances today:
+There were *two* big advances today, both having to do with our
+understanding of the classification of surfaces. These are the last key
+steps in our work, and with them we are ready for the final argument
+for a complete description of all surfaces.
 
 1. We talked about why the Euler characteristic is actually a number
 associated to a surface, rather than to a sewing pattern on a surface.
