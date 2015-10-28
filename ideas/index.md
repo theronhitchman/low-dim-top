@@ -22,3 +22,28 @@ push the library to let us play._
 4. What are other invariants for knots?
 5. How does one go about deciding on the official census of knots with $k$ crossings?
    In particular, how does one decide if a knot is prime or composite?
+6. 3d print some knots with interesting properties
+
+I want you to see that each of these ideas has several ways to handle it. If you
+enjoyed studying knots, talk to me and I can help you pick something out.
+
+## Surfaces
+
+1. 3d print some interesting surfaces.
+2. try to knit a projective plane and show us why it is hard to finish
+
+
+## Patterns
+
+1. 3d print some geometrically accurate orbifolds.
+2. Study the classification of patterns on a sphere.
+3. Study the classification of patterns for wallpaper borders (frieze patterns).
+4. Give an accurate history of the tiling problem:
+    * What kind of tilings can you make with a single triangle, quadrilateral,
+    etc, etc.
+    * What makes pentagons so hard?
+    * Who figured out what about pentagonal tilings?
+
+## Be Inspired
+
+Do something kinda neat.
