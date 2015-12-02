@@ -9,6 +9,13 @@ each day, and deciding for sure on peer reviewers for our papers.
 Please bring drafts to class on Thursday, two copies!
 
 ----
+Edit: simple schedule for presentations
+
+Tuesday 12/8: Sarah, Ben, Lauren
+Thursday 12/10: Nick, Jessica, Brittany
+Thursday 12/18: Cole, Darian, Reggie, Arianna, Lindsey
+
+----
 
 Then we talked about how to use curves to tell spaces apart. The first big idea
 is that the curves on a torus are more interesting than the curves on a sphere.
